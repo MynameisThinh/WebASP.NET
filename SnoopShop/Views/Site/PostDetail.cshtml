@@ -1,0 +1,58 @@
+﻿@model SnoopShop.Models.mPost
+@{ ViewBag.Title = Model.Title;
+                Layout = "~/Views/Shared/_LayoutSite.cshtml"; }
+<style>
+    p iframe, img {
+        width: 100% !important;
+    }
+</style>
+<div class="breadcrumb-c clearfix d-block">
+    <ul class="container-91">
+        <li><a href="~/tin-tuc">Tin tức </a></li>
+        <li class="dsfsd"><a href="~/@ViewBag.breadcrumb.Slug">  @ViewBag.breadcrumb.Name</a></li>
+    </ul>
+</div>
+<div class="container-91 row news-detail pb-3">
+    <div class="col-8">
+        <div class="mid-title">
+            @Model.Title
+            <br>
+            <div class="row">
+                <div class="col-6">  <span>Ngày đăng: @Model.Created_at  </span></div>
+                <div class="col-6">
+                    
+                </div>
+
+            </div>
+            <hr>
+        </div>
+        <div class="desc-title mb-3">
+            @Model.Description
+        </div>
+        <div class="content">
+            @Html.Raw(Model.Detail)
+            <div class="border-bottom pb-2 border-success"></div>
+
+            
+        </div>
+    </div>
+    <div class="col-4 news-right">
+        <div class="title">
+            CHỦ ĐỀ KHÁC
+        </div>
+        <div class="row">
+            @foreach (var v in ViewBag.TopicName)
+            {
+<div class="col-6">
+    <a href="~/@v.Slug">
+        @if (v.Slug == @ViewBag.breadcrumb.Slug)
+        {
+<button type="button" class="btn btn-primary rounded-0 my-2 d-block w-100">@v.Name</button> }
+                else
+                {
+<button type="button" class="btn btn-light btn-outline-primary rounded-0 my-2 d-block w-100">@v.Name</button>}
+    </a>
+</div>            }
+       
+
+</div>

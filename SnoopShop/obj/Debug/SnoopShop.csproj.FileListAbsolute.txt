@@ -1,0 +1,240 @@
+F:\Do an\SnoopShop\SnoopShop\obj\Debug\SnoopShop.csproj.AssemblyReference.cache
+F:\Do an\SnoopShop\SnoopShop\obj\Debug\SnoopShop.csproj.CoreCompileInputs.cache
+F:\Do an\SnoopShop\SnoopShop\bin\SnoopShop.dll.config
+F:\Do an\SnoopShop\SnoopShop\bin\SnoopShop.dll
+F:\Do an\SnoopShop\SnoopShop\bin\SnoopShop.pdb
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\csc.exe
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\csc.exe.config
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\csc.rsp
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\csi.exe
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\csi.exe.config
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\csi.rsp
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.AppContext.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Collections.Immutable.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Console.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Globalization.Calendars.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.IO.Compression.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.IO.FileSystem.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Net.Http.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Net.Sockets.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.ValueTuple.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Xml.XPath.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\vbc.exe
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\vbc.exe.config
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\vbc.rsp
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\VBCSCompiler.exe
+F:\Do an\SnoopShop\SnoopShop\bin\roslyn\VBCSCompiler.exe.config
+F:\Do an\SnoopShop\SnoopShop\bin\EntityFramework.dll
+F:\Do an\SnoopShop\SnoopShop\bin\EntityFramework.SqlServer.dll
+F:\Do an\SnoopShop\SnoopShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Do an\SnoopShop\SnoopShop\bin\Microsoft.Web.Infrastructure.dll
+F:\Do an\SnoopShop\SnoopShop\bin\PagedList.dll
+F:\Do an\SnoopShop\SnoopShop\bin\PagedList.Mvc.dll
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Helpers.dll
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Mvc.dll
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Razor.dll
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Webpages.Deployment.dll
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Webpages.dll
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Webpages.Razor.dll
+F:\Do an\SnoopShop\SnoopShop\bin\EntityFramework.xml
+F:\Do an\SnoopShop\SnoopShop\bin\EntityFramework.SqlServer.xml
+F:\Do an\SnoopShop\SnoopShop\bin\PagedList.xml
+F:\Do an\SnoopShop\SnoopShop\bin\PagedList.Mvc.xml
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Razor.xml
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Webpages.xml
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Webpages.Deployment.xml
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Webpages.Razor.xml
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Helpers.xml
+F:\Do an\SnoopShop\SnoopShop\bin\System.Web.Mvc.xml
+F:\Do an\SnoopShop\SnoopShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Do an\SnoopShop\SnoopShop\obj\Debug\SnoopShop.csproj.CopyComplete
+F:\Do an\SnoopShop\SnoopShop\obj\Debug\SnoopShop.dll
+F:\Do an\SnoopShop\SnoopShop\obj\Debug\SnoopShop.pdb
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\SnoopShop.dll.config
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\SnoopShop.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\SnoopShop.pdb
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\csc.exe
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\csc.exe.config
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\csc.rsp
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\csi.exe
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\csi.exe.config
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\csi.rsp
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.Managed.Core.targets
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Console.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Globalization.Calendars.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.IO.Compression.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Net.Http.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Net.Sockets.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.ValueTuple.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Xml.XmlDocument.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Xml.XPath.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\vbc.exe
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\vbc.exe.config
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\vbc.rsp
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\EntityFramework.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\PagedList.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\PagedList.Mvc.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Helpers.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Mvc.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Razor.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\EntityFramework.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\PagedList.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\PagedList.Mvc.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Razor.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Helpers.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\System.Web.Mvc.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\obj\Debug\SnoopShop.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\obj\Debug\SnoopShop.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\obj\Debug\SnoopShop.csproj.CopyComplete
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\obj\Debug\SnoopShop.dll
+\\Mac\Home\Downloads\WEB_MVC\SnoopShop\SnoopShop\obj\Debug\SnoopShop.pdb
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\SnoopShop.dll.config
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\SnoopShop.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\SnoopShop.pdb
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\csc.exe
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\csc.exe.config
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\csc.rsp
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\csi.exe
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\csi.exe.config
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\csi.rsp
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.Managed.Core.targets
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Console.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Globalization.Calendars.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.IO.Compression.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Net.Http.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Net.Sockets.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.ValueTuple.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Xml.XmlDocument.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Xml.XPath.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\vbc.exe
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\vbc.exe.config
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\vbc.rsp
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\EntityFramework.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\PagedList.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\PagedList.Mvc.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Helpers.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Mvc.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Razor.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\EntityFramework.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\PagedList.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\PagedList.Mvc.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Razor.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Helpers.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\System.Web.Mvc.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\obj\Debug\SnoopShop.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\obj\Debug\SnoopShop.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\obj\Debug\SnoopShop.csproj.CopyComplete
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\obj\Debug\SnoopShop.dll
+\\Mac\Home\Downloads\Code web_MVC\SnoopShop\SnoopShop\obj\Debug\SnoopShop.pdb
